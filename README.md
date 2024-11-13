@@ -77,11 +77,11 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
 - Run command below to download "install-mimOE.sh"
 
 ```bash
-curl -L -o- https://github.com/mimik-mimOE/mimOE-setup/releases/download/v3.x/install-mimOE.sh | bash
+curl -L -o- https://github.com/mim-OE/mimOE-setup/releases/download/v3.x/install-mimOE.sh | bash
 ```
 
 - Run command below to download "install-mimOE-ai.sh"
 
 ```bash
-curl -L -o- https://github.com/mimik-mimOE/mimOE-setup/releases/download/v3.x/install-mimOE-ai.sh | bash
+curl -L -o- https://github.com/mim-OE/mimOE-setup/releases/download/v3.x/install-mimOE-ai.sh | bash
 ```
