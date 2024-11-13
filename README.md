@@ -1,4 +1,4 @@
-# mimOE-Setup Shell Script
+# mim OE Setup Shell Script
 
 ## Description
 
