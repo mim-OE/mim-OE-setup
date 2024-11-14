@@ -28,11 +28,11 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
 4.  Open terminal window and navigate to where you saved the shell script
 5.  Give the shell script execution rights. **Be sure to use the correct file name**
     ```shell
-    chmod a+x install-mimOE.sh
+    chmod a+x install-mim-OE.sh
     ```
 6.  Run the shell script
     ```shell
-    ./install-mimOE.sh
+    ./install-mim-OE.sh
     ```
 7.  You should see mimOE start logs similar to below
     ```log
