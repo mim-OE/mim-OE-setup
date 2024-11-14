@@ -20,7 +20,7 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
 
 ## install mimOE or mimOE-ai using shell script.
 
-1.  Go to [Releases](https://github.com/mimik-mimOE/mimOE-setup/releases "mimOE install shell script download page")
+1.  Go to [Releases](https://github.com/mimik-mimOE/mim-OE-setup/releases "mimOE install shell script download page")
 2.  Under <font color="green">Latest</font> click on:
     - "install-mimOE.sh" if you want standard version
     - "install-mimOE-ai.sh" if you want AI enabled version
@@ -74,14 +74,14 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
 
 - Note: You may need to install cURL before running below commands
 
-- Run command below to download "install-mimOE.sh"
+- Run command below to download "install-mim-OE.sh"
 
 ```bash
-curl -L -o- https://github.com/mim-OE/mimOE-setup/releases/download/v3.x/install-mimOE.sh | bash
+curl -L -o- https://github.com/mim-OE/mim-OE-setup/releases/download/v3.x/install-mimOE.sh | bash
 ```
 
-- Run command below to download "install-mimOE-ai.sh"
+- Run command below to download "install-mim-OE-ai.sh"
 
 ```bash
-curl -L -o- https://github.com/mim-OE/mimOE-setup/releases/download/v3.x/install-mimOE-ai.sh | bash
+curl -L -o- https://github.com/mim-OE/mim-OE-setup/releases/download/v3.x/install-mimOE-ai.sh | bash
 ```
